@@ -404,10 +404,13 @@ div, h2, h3, span{
     
     .section1{
         width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
     }
 
     .image-home > img {
-        width: 100%;
+        width: screen;
     }
     
     .apropos-img > img{
