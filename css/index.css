@@ -428,7 +428,7 @@ div, h2, h3, span{
     }
     
     .image-home img {
-        max-width: 80%; /* Réduit un peu la largeur pour éviter un effet trop large */
+        max-width: 100%; /* Réduit un peu la largeur pour éviter un effet trop large */
         height: auto; /* Garde les proportions */
     }
     
