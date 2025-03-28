@@ -455,6 +455,7 @@ div, h2, h3, span{
     .presentation{
         flex-direction: column;
         align-items: center;
+        width: 100%;
     }
 
     .section1 p {
