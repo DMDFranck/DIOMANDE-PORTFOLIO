@@ -402,7 +402,7 @@ div, h2, h3, span{
         text-align: center; /* Centre le texte des liens */
     }
     
-/*     .section1{
+    .section1{
         width: 100%;
         display: flex;
         flex-direction: column;
@@ -411,26 +411,26 @@ div, h2, h3, span{
 
     .image-home > img {
         width: 100%;
-    } */
+    }
 
-    .section1 {
+/*     .section1 {
         width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center; 
-        text-align: center; /* Assure aussi le centrage du texte */
+        text-align: center; 
     }
     
     .image-home {
         display: flex;
-        justify-content: center; /* Centre l'image horizontalement */
+        justify-content: center; 
         width: 100%;
     }
     
     .image-home img {
-        max-width: 100%; /* Réduit un peu la largeur pour éviter un effet trop large */
-        height: auto; /* Garde les proportions */
-    }
+        max-width: 100%; 
+        height: auto; 
+    } */
     
     .apropos-img > img{
         width: 100%;
