@@ -447,6 +447,9 @@ div, h2, h3, span{
 
     .presentation li {
         padding-bottom: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .presentation{
